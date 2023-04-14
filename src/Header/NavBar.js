@@ -2,7 +2,7 @@ const NavBar = () => {
     return (
         <div>
             <div>
-                link
+                <a href="/Login">Login</a>
             </div>
         </div>
     )
