@@ -12,7 +12,7 @@ const Login = () => {
         <div>
             <form>
                 {/* the for= and type= are html attributes */}
-                <label for="fname">Username:</label>
+                <label> Username:</label>
                 <input type="text" id="fname" name="fname"></input>
                 <br></br>
                 <label for="lname">Password:</label>

@@ -23,6 +23,9 @@ function App() {
     <div className="App">
       <Header/> 
       <RouterProvider router={router} /> 
+      <div id="image-container">
+      <img src={require("./Images/Blue_Sky_with_Clouds.jpg")} alt='Blue Sky with Clouds'/>
+      </div>
     </div>
   );
 }

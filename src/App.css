@@ -8,3 +8,20 @@
   width:90vw;
   margin:auto
 }
+#LinksContainer{
+  display:flex;
+  width:35vw;
+  justify-content: space-between;
+}
+#NavLinks{
+  display:flex;
+  width:50vw;
+  justify-content:space-around;
+}
+#image-container{
+  height: 600px;
+  overflow: hidden;
+}
+img{
+  width: 100vw
+}
