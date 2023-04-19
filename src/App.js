@@ -12,7 +12,7 @@ function App() {
   const router = createBrowserRouter([
     {
       path: "/",
-      element: <div>Streamlining Healthcare. Empowering Patients.</div>,
+      element: <div id="subheader-container">Streamlining Healthcare. Empowering Patients.</div>,
     },
     {
       path: "/Login",

@@ -6,7 +6,8 @@
   display:flex;
   justify-content:space-between;
   width:90vw;
-  margin:auto
+  margin:auto;
+  padding:13px;
 }
 #LinksContainer{
   display:flex;
@@ -24,4 +25,7 @@
 }
 img{
   width: 100vw
+}
+#subheader-container{
+  padding:50px;
 }
